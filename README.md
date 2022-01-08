@@ -41,7 +41,7 @@
 ## **main.py**
 
 **OUTPUT PROGRAM**
-![Gambar1](sscreenshot/img.png)
+![Gambar1](screenshot/img.png)
 
 
 ### **Deskripsi**
